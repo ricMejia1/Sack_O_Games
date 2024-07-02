@@ -1,0 +1,18 @@
+In order to use the Sack O' Games, you will need to run the Sack O Games.py file in your IDE of choice,
+the Sack O' Games appears to have trouble being displayed in CMD. So maybe don't run it there. 
+
+You will need the following modules to play the games in the Sack O' Games:
+
+- time
+- random
+- math
+- tkinter
+- keyboard
+
+Without installing all we cannot guarantee that any of these games will run. 
+
+Also, do not move any files out of this folder that you didn't put in. This can make it so that games will not run. 
+
+All instructions for playing each game are displayed when you play them.
+
+Enjoy!
