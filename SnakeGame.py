@@ -1,14 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Name(s):         Saylor Sherrodd
-#                   Ricardo Mejia
-# Section:         574
-# Assignment:   Game 2
-# Date:         7 1 2022
-#
-
 from random import randint
 from keyboard import is_pressed
 import time
